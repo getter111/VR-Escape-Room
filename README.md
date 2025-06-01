@@ -14,8 +14,7 @@ Immersive virtual reality escape room experience built in Unity using the XR Int
   - **See Potion**: Allows the user to see thinks otherwise hidden...  
 
 - **Magic Wands**  
-  - **Fireball Wand**: Launches fireballs to interact with objects.
-  - [![Fireball Wand Demo](https://www.youtube.com/shorts/3K1o4zvmsaw)
+  - **Fireball Wand**: Launches fireballs to interact with objects. [Fireball Wand Demo](https://www.youtube.com/shorts/3K1o4zvmsaw)
   - **Telekinesis Wand**: Remotely manipulates objects using ray-based interaction.
   - **Lighting Wand**: Shoots lighting beams to interact with objects.  
 
