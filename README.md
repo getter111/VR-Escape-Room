@@ -21,7 +21,7 @@ Immersive virtual reality escape room experience built in Unity using the XR Int
 - **Magic Mushroom Helper**  
   A riddle-speaking mushroom that provides hints when objects are presented to it. (helps assist players with contextual guidance) [Mushroom Demo]([https://youtube.com/shorts/LLhGHMe4SCk](https://youtube.com/shorts/Txjgn33-cTI))
 
-## 🎮 Gameplay Demo Observations
+## Gameplay Demo Observations
 
 - **Player Reactions**:  
   Most playtesters were excited by the interactive elements and unique potion effects.
@@ -29,7 +29,7 @@ Immersive virtual reality escape room experience built in Unity using the XR Int
 - **Common Challenges**:  
   Players often ignored the magic mushroom helper and experimented freely with random items. Many expressed confusion without external guidance.
 
-## 📚 Lessons Learned
+## Lessons Learned
 
 - **User Guidance Is Crucial**  
   Players struggled without clear, intuitive direction. Future versions will include contextual voice hints and improved onboarding.
@@ -37,11 +37,11 @@ Immersive virtual reality escape room experience built in Unity using the XR Int
 - **Immersion Through Interaction**  
   Presence was enhanced by allowing players to naturally interact with the world (e.g. shrinking, throwing objects, using magic).
 
-## 🛠️ Built With
+## 🛠Built With
 
 - Unity (C#)
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Voice line prompts and time-based reminders
 - Potion effect indicators and duration UI
